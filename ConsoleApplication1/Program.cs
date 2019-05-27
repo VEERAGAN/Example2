@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             int a = 10;
             int b = 25;
-            int sum = a + b;
+            int sum = a-b;
         }
     }
 }
